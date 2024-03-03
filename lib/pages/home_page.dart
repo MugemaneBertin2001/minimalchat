@@ -17,9 +17,6 @@ class HomePage extends StatelessWidget {
               // Call the signOut method from the AuthService
               AuthService authService = AuthService();
               await authService.logout();
-              
-              // Navigate to the login page after signing out
-              Navigator.pushReplacementNamed(context, '/login');
             },
             icon: const Icon(Icons.logout),
           )
