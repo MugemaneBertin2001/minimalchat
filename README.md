@@ -16,7 +16,7 @@ To get started with the MinimalChat app, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [https://github.com/your-username/minimalchat.git](https://github.com/MugemaneBertin2001/minimalchat.git)
+   git clone https://github.com/MugemaneBertin2001/minimalchat.git
    ```
 
 2. Navigate to the project directory:
